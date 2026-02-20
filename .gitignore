@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.pdf
+*.csv
+*.xlsx
+*.jpg
+*.jpeg
+*.png
